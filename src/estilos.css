@@ -26,3 +26,26 @@ footer {
     margin: 0;
     margin-bottom: 70px;
   }
+
+  .menucentrado{
+    margin: 100px;
+    text-align:center;
+    vertical-align:middle;
+  }
+
+  table {
+    font-size: x-large;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: middle;
+    padding: 8px;
+  }
+
+  .centrar{
+    text-align:center;
+    vertical-align:middle;
+  }
