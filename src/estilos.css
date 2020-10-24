@@ -10,6 +10,25 @@ footer {
     text-align: center;
   }
 
+  .barra{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #28a745;
+    border-color: #28a745;
+    text-align: center;
+}
+
+.espacioblanco{
+  margin-top: 150px;
+  text-align:center;
+  vertical-align:middle;
+}
+
+button {
+  margin: 20px;
+}
+
+
   #logo{
     background-color: #28a745;
   }
@@ -34,7 +53,6 @@ footer {
   }
 
   table {
-    font-size: x-large;
     border-collapse: collapse;
     width: 100%;
   }
@@ -48,4 +66,8 @@ footer {
   .centrar{
     text-align:center;
     vertical-align:middle;
+  }
+
+  .margenseparadorlayouttop{
+    margin-top: 60px;
   }
