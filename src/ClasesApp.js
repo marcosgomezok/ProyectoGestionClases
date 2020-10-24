@@ -1,6 +1,8 @@
 import React from 'react'
 import { AppRouter } from './routers/AppRouter';
 import './estilos.css'
+import './logo.jpg'
+import { Logo } from './Logo';
 
 
 export const ClasesApp = () => {
@@ -8,7 +10,7 @@ export const ClasesApp = () => {
         <div>
             <div className="container-fluid">
                 <div id="logo" className="row justify-content-center">
-                    <img src="http://tecno.unca.edu.ar/wp-content/uploads/2017/05/18575422_10211412467781016_1446490516_o.jpg" alt="logo-tecno-unca"/>
+                    <Logo/>
                 </div>
             </div>
 
